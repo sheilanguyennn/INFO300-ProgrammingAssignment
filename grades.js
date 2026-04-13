@@ -1,3 +1,4 @@
+// INFO 300 Assignment- Grade Simulator
 const readline = require("readline-sync");
 
 // Get a valid score from 0 to 100
